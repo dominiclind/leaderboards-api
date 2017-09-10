@@ -1,0 +1,162 @@
+[
+	{
+		"name": "Bench Press",
+		"Main Muscle Worked": " Chest",
+		"Other Muscles": " Shoulders, Triceps",
+		"Force": " Push",
+		"Your Rating": " ",
+		"Level": " Beginner",
+		"pic_right": "http://www.bodybuilding.com/exercises/exerciseImages/sequences/360/Male/l/360_1.jpg",
+		"Mechanics Type": " Compound",
+		"Equipment": " Barbell",
+		"link": "http://www.bodybuilding.com/exercises/detail/view/name/barbell-bench-press-medium-grip",
+		"pic_left": "http://www.bodybuilding.com/exercises/exerciseImages/sequences/360/Male/l/360_1.jpg",
+		"Sport": " No",
+		"Type": " Strength",
+		"guide": [
+			"Lie back on a flat bench. Using a medium width grip (a grip that creates a 90-degree angle in the middle of the movement between the forearms and the upper arms), lift the bar from the rack and hold it straight over you with your arms locked. This will be your starting position.",
+			"From the starting position, breathe in and begin coming down slowly until the bar touches your middle chest.",
+			"After a brief pause, push the bar back to the starting position as you breathe out. Focus on pushing the bar using your chest muscles. Lock your arms and squeeze your chest in the contracted position at the top of the motion, hold for a second and then start coming down slowly again. Tip: Ideally, lowering the weight should take about twice as long as raising it.",
+			"Repeat the movement for the prescribed amount of repetitions.",
+			"When you are done, place the bar back in the rack."
+		],
+		"id": 44
+	},
+	{
+		"name": "Cable Crossover",
+		"Main Muscle Worked": " Chest",
+		"Other Muscles": " Shoulders",
+		"Force": " Push",
+		"Your Rating": " ",
+		"Level": " Beginner",
+		"pic_right": "http://www.bodybuilding.com/exercises/exerciseImages/sequences/132/Male/l/132_1.jpg",
+		"Mechanics Type": " Isolation",
+		"Equipment": " Cable",
+		"link": "http://www.bodybuilding.com/exercises/detail/view/name/cable-crossover",
+		"pic_left": "http://www.bodybuilding.com/exercises/exerciseImages/sequences/132/Male/l/132_1.jpg",
+		"Sport": " No",
+		"Type": " Strength",
+		"guide": [
+			"To get yourself into the starting position, place the pulleys on a high position (above your head), select the resistance to be used and hold the pulleys in each hand.",
+			"Step forward in front of an imaginary straight line between both pulleys while pulling your arms together in front of you. Your torso should have a small forward bend from the waist. This will be your starting position.",
+			"With a slight bend on your elbows in order to prevent stress at the biceps tendon, extend your arms to the side (straight out at both sides) in a wide arc until you feel a stretch on your chest. Breathe in as you perform this portion of the movement. Tip: Keep in mind that throughout the movement, the arms and torso should remain stationary; the movement should only occur at the shoulder joint.",
+			"Return your arms back to the starting position as you breathe out. Make sure to use the same arc of motion used to lower the weights.",
+			"Hold for a second at the starting position and repeat the movement for the prescribed amount of repetitions."
+		],
+		"id": 111
+	},
+	{
+		"name": "Incline Bench Press",
+		"Main Muscle Worked": " Chest",
+		"Other Muscles": " Shoulders, Triceps",
+		"Force": " Push",
+		"Your Rating": " ",
+		"Level": " Beginner",
+		"pic_right": "http://www.bodybuilding.com/exercises/exerciseImages/sequences/369/Male/l/369_1.jpg",
+		"Mechanics Type": " Compound",
+		"Equipment": " Barbell",
+		"link": "http://www.bodybuilding.com/exercises/detail/view/name/barbell-incline-bench-press-medium-grip",
+		"pic_left": "http://www.bodybuilding.com/exercises/exerciseImages/sequences/369/Male/l/369_1.jpg",
+		"Sport": " No",
+		"Type": " Strength",
+		"guide": [
+			"Lie back on an incline bench. Using a medium-width grip (a grip that creates a 90-degree angle in the middle of the movement between the forearms and the upper arms), lift the bar from the rack and hold it straight over you with your arms locked. This will be your starting position.",
+			"As you breathe in, come down slowly until you feel the bar on you upper chest.",
+			"After a second pause, bring the bar back to the starting position as you breathe out and push the bar using your chest muscles. Lock your arms in the contracted position, squeeze your chest, hold for a second and then start coming down slowly again. Tip: it should take at least twice as long to go down than to come up.",
+			"Repeat the movement for the prescribed amount of repetitions.",
+			"When you are done, place the bar back in the rack."
+		],
+		"id": 53
+	},
+	{
+		"name": "Bench Press",
+		"Main Muscle Worked": " Chest",
+		"Other Muscles": " Shoulders, Triceps",
+		"Force": " Push",
+		"Your Rating": " ",
+		"Level": " Beginner",
+		"pic_right": "http://www.bodybuilding.com/exercises/exerciseImages/sequences/1/Male/l/1_1.jpg",
+		"Mechanics Type": " Compound",
+		"Equipment": " Dumbbell",
+		"link": "http://www.bodybuilding.com/exercises/detail/view/name/dumbbell-bench-press",
+		"pic_left": "http://www.bodybuilding.com/exercises/exerciseImages/sequences/1/Male/l/1_1.jpg",
+		"Sport": " No",
+		"Type": " Strength",
+		"guide": [
+			"Lie down on a flat bench with a dumbbell in each hand resting on top of your thighs. The palms of your hands will be facing each other.",
+			"Then, using your thighs to help raise the dumbbells up, lift the dumbbells one at a time so that you can hold them in front of you at shoulder width.",
+			"Once at shoulder width, rotate your wrists forward so that the palms of your hands are facing away from you. The dumbbells should be just to the sides of your chest, with your upper arm and forearm creating a 90 degree angle. Be sure to maintain full control of the dumbbells at all times. This will be your starting position.",
+			"Then, as you breathe out, use your chest to push the dumbbells up. Lock your arms at the top of the lift and squeeze your chest, hold for a second and then begin coming down slowly. Tip: Ideally, lowering the weight should take about twice as long as raising it.",
+			"Repeat the movement for the prescribed amount of repetitions of your training program."
+		],
+		"id": 222
+	},
+	{
+		"name": "Flyes",
+		"Main Muscle Worked": " Chest",
+		"Force": " Push",
+		"Your Rating": " ",
+		"Level": " Beginner",
+		"pic_right": "http://www.bodybuilding.com/exercises/exerciseImages/sequences/12/Male/l/12_1.jpg",
+		"Mechanics Type": " Isolation",
+		"Equipment": " Dumbbell",
+		"link": "http://www.bodybuilding.com/exercises/detail/view/name/dumbbell-flyes",
+		"pic_left": "http://www.bodybuilding.com/exercises/exerciseImages/sequences/12/Male/l/12_1.jpg",
+		"Sport": " No",
+		"Type": " Strength",
+		"guide": [
+			"Lie down on a flat bench with a dumbbell on each hand resting on top of your thighs. The palms of your hand will be facing each other.",
+			"Then using your thighs to help raise the dumbbells, lift the dumbbells one at a time so you can hold them in front of you at shoulder width with the palms of your hands facing each other. Raise the dumbbells up like you're pressing them, but stop and hold just before you lock out. This will be your starting position.",
+			"With a slight bend on your elbows in order to prevent stress at the biceps tendon, lower your arms out at both sides in a wide arc until you feel a stretch on your chest. Breathe in as you perform this portion of the movement. Tip: Keep in mind that throughout the movement, the arms should remain stationary; the movement should only occur at the shoulder joint.",
+			"Return your arms back to the starting position as you squeeze your chest muscles and breathe out. Tip: Make sure to use the same arc of motion used to lower the weights.",
+			"Hold for a second at the contracted position and repeat the movement for the prescribed amount of repetitions."
+		],
+		"id": 227
+	},
+	{
+		"name": "Incline Flyes",
+		"Main Muscle Worked": " Chest",
+		"Other Muscles": " Shoulders",
+		"Force": " Push",
+		"Your Rating": " ",
+		"Level": " Beginner",
+		"pic_right": "http://www.bodybuilding.com/exercises/exerciseImages/sequences/38/Male/l/38_1.jpg",
+		"Mechanics Type": " Compound",
+		"Equipment": " Dumbbell",
+		"link": "http://www.bodybuilding.com/exercises/detail/view/name/incline-dumbbell-flyes",
+		"pic_left": "http://www.bodybuilding.com/exercises/exerciseImages/sequences/38/Male/l/38_1.jpg",
+		"Sport": " No",
+		"Type": " Strength",
+		"guide": [
+			"Hold a dumbbell on each hand and lie on an incline bench that is set to an incline angle of no more than 30 degrees.",
+			"Extend your arms above you with a slight bend at the elbows.",
+			"Now rotate the wrists so that the palms of your hands are facing you. Tip: The pinky fingers should be next to each other. This will be your starting position.",
+			"As you breathe in, start to slowly lower the arms to the side while keeping the arms extended and while rotating the wrists until the palms of the hand are facing each other. Tip: At the end of the movement the arms will be by your side with the palms facing the ceiling.",
+			"As you exhale start to bring the dumbbells back up to the starting position by reversing the motion and rotating the hands so that the pinky fingers are next to each other again. Tip: Keep in mind that the movement will only happen at the shoulder joint and at the wrist. There is no motion that happens at the elbow joint.",
+			"Repeat for the recommended amount of repetitions."
+		],
+		"id": 341
+	},
+	{
+		"name": "Pushups",
+		"Main Muscle Worked": " Chest",
+		"Other Muscles": " Shoulders, Triceps",
+		"Force": " Push",
+		"Your Rating": " ",
+		"Level": " Beginner",
+		"pic_right": "http://www.bodybuilding.com/exercises/exerciseImages/sequences/70/Male/l/70_1.jpg",
+		"Mechanics Type": " Compound",
+		"Equipment": " Body Only",
+		"link": "http://www.bodybuilding.com/exercises/detail/view/name/pushups",
+		"pic_left": "http://www.bodybuilding.com/exercises/exerciseImages/sequences/70/Male/l/70_1.jpg",
+		"Sport": " No",
+		"Type": " Strength",
+		"guide": [
+			"Lie on the floor face down and place your hands about 36 inches apart while holding your torso up at arms length.",
+			"Next, lower yourself downward until your chest almost touches the floor as you inhale.",
+			"Now breathe out and press your upper body back up to the starting position while squeezing your chest.",
+			"After a brief pause at the top contracted position, you can begin to lower yourself downward again for as many repetitions as needed."
+		],
+		"id": 568
+	}
+]

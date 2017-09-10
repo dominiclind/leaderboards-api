@@ -1,0 +1,139 @@
+[
+	{
+		"name": "Barbell Deadlift",
+		"Main Muscle Worked": " Lower Back",
+		"Other Muscles": " Calves, Forearms, Glutes, Hamstrings, Lats, Middle Back, Quadriceps, Traps",
+		"Force": " Pull",
+		"Your Rating": " ",
+		"Level": " Intermediate",
+		"pic_right": "http://www.bodybuilding.com/exercises/exerciseImages/sequences/112/Male/l/112_1.jpg",
+		"Mechanics Type": " Compound",
+		"Equipment": " Barbell",
+		"link": "http://www.bodybuilding.com/exercises/detail/view/name/barbell-deadlift",
+		"pic_left": "http://www.bodybuilding.com/exercises/exerciseImages/sequences/112/Male/l/112_1.jpg",
+		"Sport": " Yes",
+		"Type": " Strength",
+		"guide": [
+			"Stand in front of a loaded barbell.",
+			"While keeping the back as straight as possible, bend your knees, bend forward and grasp the bar using a medium (shoulder width) overhand grip. This will be the starting position of the exercise. Tip: If it is difficult to hold on to the bar with this grip, alternate your grip or use wrist straps.",
+			"While holding the bar, start the lift by pushing with your legs while simultaneously getting your torso to the upright position as you breathe out. In the upright position, stick your chest out and contract the back by bringing the shoulder blades back. Think of how the soldiers in the military look when they are in standing in attention.",
+			"Go back to the starting position by bending at the knees while simultaneously leaning the torso forward at the waist while keeping the back straight. When the weights on the bar touch the floor you are back at the starting position and ready to perform another repetition.",
+			"Perform the amount of repetitions prescribed in the program."
+		],
+		"id": 47
+	},
+	{
+		"name": "Pullups",
+		"Main Muscle Worked": " Lats",
+		"Other Muscles": " Biceps, Middle Back",
+		"Force": " Pull",
+		"Your Rating": " ",
+		"Level": " Beginner",
+		"pic_right": "http://www.bodybuilding.com/exercises/exerciseImages/sequences/46/Male/l/46_1.jpg",
+		"Mechanics Type": " Compound",
+		"Equipment": " Body Only",
+		"link": "http://www.bodybuilding.com/exercises/detail/view/name/pullups",
+		"pic_left": "http://www.bodybuilding.com/exercises/exerciseImages/sequences/46/Male/l/46_1.jpg",
+		"Sport": " No",
+		"Type": " Strength",
+		"guide": [
+			"Grab the pull-up bar with the palms facing forward using the prescribed grip. Note on grips: For a wide grip, your hands need to be spaced out at a distance wider than your shoulder width. For a medium grip, your hands need to be spaced out at a distance equal to your shoulder width and for a close grip at a distance smaller than your shoulder width.",
+			"As you have both arms extended in front of you holding the bar at the chosen grip width, bring your torso back around 30 degrees or so while creating a curvature on your lower back and sticking your chest out. This is your starting position.",
+			"Pull your torso up until the bar touches your upper chest by drawing the shoulders and the upper arms down and back. Exhale as you perform this portion of the movement. Tip: Concentrate on squeezing the back muscles once you reach the full contracted position. The upper torso should remain stationary as it moves through space and only the arms should move. The forearms should do no other work other than hold the bar.",
+			"After a second on the contracted position, start to inhale and slowly lower your torso back to the starting position when your arms are fully extended and the lats are fully stretched.",
+			"Repeat this motion for the prescribed amount of repetitions."
+		],
+		"id": 560
+	},
+	{
+		"name": "Bent Over Row",
+		"Main Muscle Worked": " Middle Back",
+		"Other Muscles": " Biceps, Lats, Shoulders",
+		"Force": " Pull",
+		"Your Rating": " ",
+		"Level": " Beginner",
+		"pic_right": "http://www.bodybuilding.com/exercises/exerciseImages/sequences/20/Male/l/20_1.jpg",
+		"Mechanics Type": " Compound",
+		"Equipment": " Barbell",
+		"link": "http://www.bodybuilding.com/exercises/detail/view/name/bent-over-barbell-row",
+		"pic_left": "http://www.bodybuilding.com/exercises/exerciseImages/sequences/20/Male/l/20_1.jpg",
+		"Sport": " No",
+		"Type": " Strength",
+		"guide": [
+			"Holding a barbell with a pronated grip (palms facing down), bend your knees slightly and bring your torso forward, by bending at the waist, while keeping the back straight until it is almost parallel to the floor. Tip: Make sure that you keep the head up. The barbell should hang directly in front of you as your arms hang perpendicular to the floor and your torso. This is your starting position.",
+			"Now, while keeping the torso stationary, breathe out and lift the barbell to you. Keep the elbows close to the body and only use the forearms to hold the weight. At the top contracted position, squeeze the back muscles and hold for a brief pause.",
+			"Then inhale and slowly lower the barbell back to the starting position.",
+			"Repeat for the recommended amount of repetitions."
+		],
+		"id": 77
+	},
+	{
+		"name": "Seated Cable Rows",
+		"Main Muscle Worked": " Middle Back",
+		"Other Muscles": " Biceps, Lats, Shoulders",
+		"Force": " Pull",
+		"Your Rating": " ",
+		"Level": " Beginner",
+		"pic_right": "http://www.bodybuilding.com/exercises/exerciseImages/sequences/45/Male/l/45_1.jpg",
+		"Mechanics Type": " Compound",
+		"Equipment": " Cable",
+		"link": "http://www.bodybuilding.com/exercises/detail/view/name/seated-cable-rows",
+		"pic_left": "http://www.bodybuilding.com/exercises/exerciseImages/sequences/45/Male/l/45_1.jpg",
+		"Sport": " No",
+		"Type": " Strength",
+		"guide": [
+			"For this exercise you will need access to a low pulley row machine with a V-bar. Note: The V-bar will enable you to have a neutral grip where the palms of your hands face each other. To get into the starting position, first sit down on the machine and place your feet on the front platform or crossbar provided making sure that your knees are slightly bent and not locked.",
+			"Lean over as you keep the natural alignment of your back and grab the V-bar handles.",
+			"With your arms extended pull back until your torso is at a 90-degree angle from your legs. Your back should be slightly arched and your chest should be sticking out. You should be feeling a nice stretch on your lats as you hold the bar in front of you. This is the starting position of the exercise.",
+			"Keeping the torso stationary, pull the handles back towards your torso while keeping the arms close to it until you touch the abdominals. Breathe out as you perform that movement. At that point you should be squeezing your back muscles hard. Hold that contraction for a second and slowly go back to the original position while breathing in.",
+			"Repeat for the recommended amount of repetitions."
+		],
+		"id": 626
+	},
+	{
+		"name": "Straight-Arm Pulldown",
+		"Main Muscle Worked": " Lats",
+		"Force": " Pull",
+		"Your Rating": " ",
+		"Level": " Beginner",
+		"pic_right": "http://www.bodybuilding.com/exercises/exerciseImages/sequences/11/Male/l/11_1.jpg",
+		"Mechanics Type": " Isolation",
+		"Equipment": " Cable",
+		"link": "http://www.bodybuilding.com/exercises/detail/view/name/straight-arm-pulldown",
+		"pic_left": "http://www.bodybuilding.com/exercises/exerciseImages/sequences/11/Male/l/11_1.jpg",
+		"Sport": " No",
+		"Type": " Strength",
+		"guide": [
+			"You will start by grabbing the wide bar from the top pulley of a pulldown machine and using a wider than shoulder-width pronated (palms down) grip. Step backwards two feet or so.",
+			"Bend your torso forward at the waist by around 30-degrees with your arms fully extended in front of you and a slight bend at the elbows. If your arms are not fully extended then you need to step a bit more backwards until they are. Once your arms are fully extended and your torso is slightly bent at the waist, tighten the lats and then you are ready to begin.",
+			"While keeping the arms straight, pull the bar down by contracting the lats until your hands are next to the side of the thighs. Breathe out as you perform this step.",
+			"While keeping the arms straight, go back to the starting position while breathing in.",
+			"Repeat for the recommended amount of repetitions."
+		],
+		"id": 797
+	},
+	{
+		"name": "Lat Pulldown",
+		"Main Muscle Worked": " Lats",
+		"Other Muscles": " Biceps, Middle Back, Shoulders",
+		"Force": " Pull",
+		"Your Rating": " ",
+		"Level": " Beginner",
+		"pic_right": "http://www.bodybuilding.com/exercises/exerciseImages/sequences/10/Male/l/10_1.jpg",
+		"Mechanics Type": " Compound",
+		"Equipment": " Cable",
+		"link": "http://www.bodybuilding.com/exercises/detail/view/name/wide-grip-lat-pulldown",
+		"pic_left": "http://www.bodybuilding.com/exercises/exerciseImages/sequences/10/Male/l/10_1.jpg",
+		"Sport": " No",
+		"Type": " Strength",
+		"guide": [
+			"Sit down on a pull-down machine with a wide bar attached to the top pulley. Make sure that you adjust the knee pad of the machine to fit your height. These pads will prevent your body from being raised by the resistance attached to the bar.",
+			"Grab the bar with the palms facing forward using the prescribed grip. Note on grips: For a wide grip, your hands need to be spaced out at a distance wider than shoulder width. For a medium grip, your hands need to be spaced out at a distance equal to your shoulder width and for a close grip at a distance smaller than your shoulder width.",
+			"As you have both arms extended in front of you holding the bar at the chosen grip width, bring your torso back around 30 degrees or so while creating a curvature on your lower back and sticking your chest out. This is your starting position.",
+			"As you breathe out, bring the bar down until it touches your upper chest by drawing the shoulders and the upper arms down and back. Tip: Concentrate on squeezing the back muscles once you reach the full contracted position. The upper torso should remain stationary and only the arms should move. The forearms should do no other work except for holding the bar; therefore do not try to pull down the bar using the forearms.",
+			"After a second at the contracted position squeezing your shoulder blades together, slowly raise the bar back to the starting position when your arms are fully extended and the lats are fully stretched. Inhale during this portion of the movement.",
+			"Repeat this motion for the prescribed amount of repetitions."
+		],
+		"id": 860
+	}
+]
