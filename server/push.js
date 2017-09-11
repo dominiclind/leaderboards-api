@@ -16,6 +16,6 @@ export const createNotification = (msg, toUsers) => {
 	return codePushApi.post('/notifications', {
 	  app_id: APP_ID,
 	  contents: {"en": msg},
-	  included_segments: ["All"]
+	  include_player_ids: toUsers
 	});
 }
